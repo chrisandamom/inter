@@ -1,0 +1,2 @@
+# inter
+Typora theme
